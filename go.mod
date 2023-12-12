@@ -1,5 +1,3 @@
-module github.com/ugorji/go
+module github.com/tenderly/go-codec
 
 go 1.11
-
-require github.com/ugorji/go/codec v1.1.13
